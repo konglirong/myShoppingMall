@@ -1,1 +1,1 @@
-<view class="content">首页</view>
+<view class="content"><swiper class="swiper" indicator-dots="{{true}}" autoplay="{{true}}" interval="{{1000}}" circular="{{true}}"><block wx:for="{{imgList}}" wx:for-item="item" wx:for-index="index"><swiper-item class="img-item"><image class="imgStyle" src="{{item.src}}"></image></swiper-item></block></swiper></view>

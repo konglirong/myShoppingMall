@@ -5,11 +5,53 @@
 			"style": {
 			}
 		}
-	],
+	    ,{
+            "path" : "pages/cart/cart",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/myFile/myFile",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/message/message",
+            "style" : {}
+        }
+    ],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
+		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "我的商城",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarBackgroundColor": "#c51d02",
+		"backgroundColor": "#fff"
+	},
+	"tabBar":{
+		"selectedColor":"#C51D02",
+		"color":"#707070",
+		"list":[
+			{
+				"text":"首页",
+				"pagePath":"pages/index/index",
+				"iconPath":"static/tabbar/home.png",
+				"selectedIconPath":"static/tabbar/homeA.png"
+			},
+			{
+				"text":"资讯",
+				"pagePath":"pages/message/message",
+				"iconPath":"static/tabbar/zixun.png",
+				"selectedIconPath":"static/tabbar/zixunA.png"
+			},
+			{
+				"text":"购物车",
+				"pagePath":"pages/cart/cart",
+				"iconPath":"static/tabbar/shopCart.png",
+				"selectedIconPath":"static/tabbar/shopCartA.png"
+			},
+			{
+				"text":"会员",
+				"pagePath":"pages/myFile/myFile",
+				"iconPath":"static/tabbar/wode.png",
+				"selectedIconPath":"static/tabbar/wodeA.png"
+			}
+		]
 	}
 }

@@ -37,6 +37,22 @@
 					src:"../../static/shequ/tu4.jpg",
 					id:"004",
 					text:"荣耀Play4T 全网通6GB+128GB大内存 极光蓝 4000mAh大电池 4800万AI摄影 6.39英寸魅眼屏"
+				},{
+					src:"../../static/shequ/tu1.jpg",
+					id:"005",
+					text:"荣耀Play4T 全网通6GB+128GB大内存 极光蓝 4000mAh大电池 4800万AI摄影 6.39英寸魅眼屏"
+				},{
+					src:"../../static/shequ/tu2.jpg",
+					id:"006",
+					text:"荣耀Play4T 全网通6GB+128GB大内存 极光蓝 4000mAh大电池 4800万AI摄影 6.39英寸魅眼屏"
+				},{
+					src:"../../static/shequ/tu3.jpg",
+					id:"007",
+					text:"荣耀Play4T 全网通6GB+128GB大内存 极光蓝 4000mAh大电池 4800万AI摄影 6.39英寸魅眼屏"
+				},{
+					src:"../../static/shequ/tu4.jpg",
+					id:"008",
+					text:"荣耀Play4T 全网通6GB+128GB大内存 极光蓝 4000mAh大电池 4800万AI摄影 6.39英寸魅眼屏"
 				}]
 			}
 		},

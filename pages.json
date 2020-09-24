@@ -17,6 +17,28 @@
             "path" : "pages/message/message",
             "style" : {}
         }
+        ,{
+            "path" : "pages/infoPage/goods/goods",
+            "style" : {
+				"navigationBarTitleText":"商品列表"
+			}
+        }
+        ,{
+            "path" : "pages/infoPage/contact/contact",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/infoPage/pics/pics",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/infoPage/videos/videos",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/infoPage/detail/detail",
+            "style" : {}
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",

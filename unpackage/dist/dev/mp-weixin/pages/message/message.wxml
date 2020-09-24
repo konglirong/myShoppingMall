@@ -1,1 +1,1 @@
-<view>资讯</view>
+<view class="content"><block wx:for="{{imgArr}}" wx:for-item="item" wx:for-index="index"><view data-event-opts="{{[['tap',[['itemClick',['$0'],[[['imgArr','',index]]]]]]]}}" class="item" bindtap="__e"><view class="left"><image src="{{item.src}}"></image></view><view class="right"><view class="word">{{''+item.text+''}}</view><view class="info"><text>发表时间：2020-9-23</text><text class="cishu">浏览：120次</text></view></view></view></block></view>

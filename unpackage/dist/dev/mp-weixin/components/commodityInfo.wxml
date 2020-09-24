@@ -1,0 +1,1 @@
+<view data-ref="viewBox" class="commodityList vue-ref"><block wx:for="{{shopList}}" wx:for-item="item" wx:for-index="__i0__"><view class="commodity-item"><image src="../static/phone1.jpg"></image><view class="price">2195<text>2999</text></view><text class="desc">华为 HUAWEI P40 麒麟990 5G SoC芯片 5000万超感知徕卡三摄 30倍数字变焦 8GB+128GB冰霜银全网通5G手机</text></view></block></view>

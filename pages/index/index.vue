@@ -106,9 +106,8 @@
 			  }
 			}
 		},
+		 // v-if="this.wayTag" 
 		mounted() {
-			console.log(window)
-			let that = this;
 			window.addEventListener('scroll', this.throttle(this.handleScroll,50))
 		},
 		deactivated() {
